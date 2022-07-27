@@ -1,13 +1,15 @@
 # Youtube Vanced 
 >version 17.28.34
 
-<img src="icon.png" alt="Logo" height= width= />
+<div align=center>
+  <img src="icon.png" alt="Logo" height=200 width=500 />
+</div>
 
-What's new:
+## What's new:
 
 - Toggle between Your Favourite App Icon.
 
-Feature Youtube Vanced Provide:
+## Feature Youtube Vanced Provide:
 
 - [x] AD's Free 
 - [x] Return Youtube Dislike <img src"" height= width= />
