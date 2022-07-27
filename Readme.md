@@ -12,13 +12,16 @@
 
 ## Feature Youtube Vanced Provide:
 
-- [x] AD's Free 
-- [x] Return Youtube Dislike <img src="" height=  width= /> 
-
+- [x] AD's Free Content.
+- [x] Return Youtube Dislike Count<img src="" height=  width= /> 
+- [x] Background play 
+- [x] Download Video 
 
 ## Vanced Manager:
 
-Get it from [Here]()
+Version manager for Vanced. Get it from [Here]()
 
 ## Powertube:
 Video Downloader for Youtube vanced. Get it from [Here]()
+
+[[Open Suggestions](https://t.me/The_Positive_Viewer) / [Poll]()]
