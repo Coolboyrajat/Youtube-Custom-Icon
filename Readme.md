@@ -3,7 +3,7 @@
 
 <div align=center>
   <img src="icon.png" alt="Logo" height=200 width=500 />
-  <img src="ic_launcher_4.png" alt="Logo" height=80 width=130 />
+  <img src="ic_launcher_4.png" alt="Logo" height=75 width=125 />
 </div>
 
 ## What's new:
