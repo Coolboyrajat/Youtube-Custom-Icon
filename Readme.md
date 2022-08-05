@@ -15,6 +15,8 @@
 - [x] AD's Free Content.
 - [x] Return Youtube Dislike Count<img src="" height=  width= /> 
 - [x] Background play 
+- [x] Redesign Media Player 
+- [x] Swipe Control 
 - [x] Download Video 
 
 ## Vanced Manager:
